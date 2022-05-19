@@ -1,4 +1,4 @@
-# dataclean
+# import dataclean as dc
 
 This code is used to clean the data Pandas Dataframe.
 This include:
@@ -15,4 +15,4 @@ This include:
 
 -sort row in accending or decending order by any (or specific) columns.
 
-Opening suggestion on twitter @nzmi___
+Opening suggestions on twitter @nzmi___
